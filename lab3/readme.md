@@ -29,7 +29,7 @@ Three versions are included:
 
 ```bash
 make
-Execution
+## Execution
 ./correlate_program <ny> <nx>
 Example:
 ./correlate_program 2000 2000
