@@ -1,8 +1,8 @@
 # Assignment 6: Introduction to CUDA
 
 ## Student Details
-- **Name:** [Your Name]
-- **Roll No:** [Your Roll No]
+- **Name:** Jasmol
+- **Roll No:** 102497024
 - **Course:** Parallel and Distributed Computing (UCS645)
 - **Platform:** Google Colab (Tesla T4 GPU)
 
